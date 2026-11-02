@@ -1,30 +1,48 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B+I'm+Ahsan+Raza;Python+Backend+Developer+%26+Automation+Engineer;Building+Scalable+APIs+%26+AI-Driven+Workflows;FastAPI+%7C+Django+%7C+Flask+%7C+PostgreSQL" alt="Typing SVG" />
-</div>
+# Hi there 👋, I'm Ahsan Raza
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AhsanRaza368&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/AhsanRaza368?label=Followers&style=flat&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/AhsanRaza368?style=flat&logo=github&color=yellow" alt="GitHub Stars" />
+</p>
+
+### 💻 Python Developer | Backend & Model Integrations
+
+Passionate backend engineer specializing in building robust, scalable applications and automated workflows. Experienced in crafting efficient APIs, managing relational databases, and integrating storage solutions and machine learning model pipelines.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+- **Languages:** Python, SQL
+- **Frameworks & Libraries:** FastAPI, Flask, Django, Pandas, NumPy, OpenCV, PIL
+- **Databases & Storage:** PostgreSQL, Supabase, MinIO, AWS S3
+- **Tools & Environments:** Docker, Git, Linux, ONNX Runtime, Streamlit
+
+---
+
+### 🚀 Featured Repositories
+
+| Repository | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[fibonacci_app](https://github.com/AhsanRaza368/fibonacci_app)** | Automated Python utility and application generator template. | Python |
+| **[students_grade_tracker](https://github.com/AhsanRaza368/students_grade_tracker)** | Academic performance tracking system. | Python |
+| **[memory_puzzle_game_app](https://github.com/AhsanRaza368/memory_puzzle_game_app)** | Interactive memory puzzle game template. | Python |
+| **[Backed_fastapi_Mvp_Voting](https://github.com/AhsanRaza368/Backed_fastapi_Mvp_Voting)** | High-performance backend API for voting systems. | Python, FastAPI |
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AhsanRaza368&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/AhsanRaza368?label=FOLLOWERS&style=for-the-badge&color=blue&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/AhsanRaza368?label=STARS&style=for-the-badge&color=yellow&logo=github" alt="Stars"/>
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20COLLABORATION-success?style=for-the-badge&logo=git&logoColor=white" alt="Status"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AhsanRaza368&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Ahsan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanRaza368&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 📬 Connect With Me
 
-```python
-class AhsanRaza:
-    def __init__(self):
-        self.name = "Ahsan Raza"
-        self.role = "Python Backend & AI Workflow Developer"
-        self.location = "Lahore, Pakistan 🇵🇰"
-        self.core_stack = ["Python", "FastAPI", "Django", "Flask", "PostgreSQL"]
-        self.storage_cloud = ["AWS S3", "MinIO", "Supabase"]
-        self.ai_tools = ["ONNX Runtime", "OpenCV", "Pandas", "NumPy"]
-
-    def get_profile_summary(self):
-        return "Passionate about designing robust backend architectures, automated pipelines, and intelligent API systems."
-
-dev = AhsanRaza()
-print(dev.get_profile_summary())
+- **Email:** [ahsanghulamnabi368@gmail.com](mailto:ahsanghulamnabi368@gmail.com)
+- **LinkedIn:** [ahsan-raza-9b0816318](https://www.linkedin.com/in/ahsan-raza-9b0816318)
+- **Portfolio / Location:** Lahore, Pakistan 🇵🇰
