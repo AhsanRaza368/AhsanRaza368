@@ -1,205 +1,58 @@
-👋 Hey there, I'm Ahsan Raza!
+<h1 align="center">Hi, I'm Ahsan Raza 👋</h1><h3 align="center">Python Backend Developer | FastAPI · Django · Flask</h3><p align="center">
+  I build Python backends, REST APIs, database-driven applications, and AI-powered workflows.
+</p><p align="center">
+  <a href="https://www.linkedin.com/in/ahsan-raza-9b0816318">LinkedIn</a>
+  ·
+  <a href="mailto:ahsanghulamnabi368@gmail.com">Email</a>
+  ·
+  <a href="https://github.com/AhsanRaza368">GitHub</a>
+</p>About Me
+I'm a Python backend developer based in Lahore, Pakistan. I enjoy designing clean backend architectures, building REST APIs, working with relational databases, and connecting external services and machine-learning models to practical applications.
 
-<h3 align="center">
-🐍 Python Backend Developer | FastAPI | Django | Flask
-</h3>
-
+My main backend stack includes Python, FastAPI, Flask, Django, PostgreSQL, SQLAlchemy, and Pydantic. I'm also interested in object storage, automation, and efficient computer-vision inference with OpenCV and ONNX Runtime.
+- 🔭 Working on Python backend applications and API projects
+- 🌱 Learning more about scalable backend architecture, deployment, and system design
+- 🗄️ Working with PostgreSQL, Supabase, and object-storage integrations
+- 🤖 Exploring computer-vision and machine-learning model integration
+- 🐳 Using Git, Docker, and Linux in development workflows
+- 🤝 Open to collaborating on Python, backend, and API projects
+- 📍 Lahore, Pakistan
+Tech Stack
+Languages
+Python SQL
+Backend & APIs
+FastAPI Django Flask REST APIs SQLAlchemy Pydantic JWT Authentication
+Databases & Storage
+PostgreSQL Supabase AWS S3 MinIO
+AI, Data & Image Processing
+ONNX Runtime OpenCV Pillow NumPy Pandas
+Tools & Platforms
+Git GitHub Docker Linux VS Code
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+Scalable+Backend+Systems+%F0%9F%9A%80;Python+%7C+FastAPI+%7C+Django+%7C+Flask;Database+%26+Cloud+Storage+Integrations;Machine+Learning+Model+Integrations;Turning+Ideas+Into+Production-Ready+Solutions" alt="Typing SVG" />
-</p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,postgres,supabase,aws,docker,git,github,linux" alt="Python, FastAPI, Django, Flask, PostgreSQL, Supabase, AWS, Docker, Git, GitHub, and Linux" />
+</p>Selected Public Projects
+These are public repositories on my GitHub profile. The descriptions below summarize their current purpose; open each repository for its source code and README.
+Project	Description	Technology
+FastAPI MVP Voting	Backend API project for a voting application.	Python, FastAPI
+Fibonacci App	Python Fibonacci generator utility/project template.	Python
+Students Grade Tracker	Application for tracking student grades and academic performance.	Python
+Memory Puzzle Game	A Python-based memory puzzle game.	Python
 
+
+Current Areas of Work
+- Backend engineering: Building API-driven applications with FastAPI, PostgreSQL, SQLAlchemy, authentication, and role-based access control.
+- Image processing: Developing CPU-conscious image-processing and enhancement workflows with OpenCV, Pillow, and ONNX Runtime.
+- AI workflow automation: Connecting Python applications to automated, notebook-based AI video-generation workflows.
+- Storage integrations: Exploring reliable file-handling workflows using S3-compatible object storage.
+GitHub Statistics
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=AhsanRaza368&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/AhsanRaza368?label=FOLLOWERS&style=for-the-badge&color=blue&logo=github" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/AhsanRaza368?label=STARS&style=for-the-badge&color=yellow&logo=github" alt="Stars"/>
-</p>
-
-🚀 About Me
-python
-class AhsanRaza:
-
-    def __init__(self):
-        self.name = "Ahsan Raza"
-        self.role = "Python Backend Developer"
-        self.location = "Lahore, Pakistan 🇵🇰"
-
-        self.languages = ["Python", "SQL"]
-
-        self.frameworks = [
-            "FastAPI", "Flask", "Django"
-        ]
-
-        self.databases = [
-            "PostgreSQL", "Supabase"
-        ]
-
-        self.storage = [
-            "AWS S3", "MinIO"
-        ]
-
-        self.interests = [
-            "Backend Engineering",
-            "REST API Development",
-            "Cloud Storage Integration",
-            "Machine Learning Integration",
-            "Automation & Scalable Systems"
-        ]
-
-    def say_hello(self):
-        return "Let's build something amazing! 🚀"
-
-
-developer = AhsanRaza()
-print(developer.say_hello())
-
-
-💡 I'm a passionate Python developer focused on designing robust backend architectures, developing scalable APIs, managing databases, and integrating machine learning models into real-world applications.
-
-🔭 Working with Python, FastAPI, Flask, and Django
-🌱 Exploring advanced backend architecture and scalable systems
-🗄️ Experienced with PostgreSQL, Supabase, and object storage
-🤖 Interested in ONNX Runtime and ML model integrations
-🐳 Using Docker, Git, and Linux in development workflows
-🤝 Open to collaboration on Python backend and API projects
-📍 Based in Lahore, Pakistan
-🛠️ Tech Stack & Technologies
-💻 Programming Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,postgres" />
-</p>
-
-⚡ Frameworks & Libraries
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=fastapi,django,flask,opencv" />
-</p>
-
-🗄️ Databases & Cloud Storage
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=postgres,supabase,aws,docker" />
-</p>
-
-🔧 Tools & Development Environment
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker" />
-</p>
-
-🤖 AI & Data Technologies
-
-<p align="left">
-<img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-🌟 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-🧮 Fibonacci App
-
-Automated Python utility and application generator template.
-
-Tech: Python
-
-![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)
-
-</td>
-<td width="50%">
-
-🎓 Students Grade Tracker
-
-Academic performance tracking system built with Python.
-
-Tech: Python
-
-![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-🧩 Memory Puzzle Game
-
-Interactive memory puzzle game application.
-
-Tech: Python
-
-![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)
-
-</td>
-<td width="50%">
-
-⚡ FastAPI MVP Voting
-
-Backend API for voting system applications.
-
-Tech: Python, FastAPI
-
-![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)
-
-</td>
-</tr>
-</table>
-
-📊 GitHub Analytics
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AhsanRaza368&show_icons=true&theme=tokyonight&hide_border=true" alt="Ahsan Raza's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanRaza368&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages in Ahsan Raza's public repositories" />
+</p>Let's Connect
+I'm interested in connecting with developers, collaborating on useful projects, and discussing Python backend engineering.
+- Email: ahsanghulamnabi368@gmail.com
+- LinkedIn: linkedin.com/in/ahsan-raza-9b0816318
+- GitHub: github.com/AhsanRaza368
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AhsanRaza368&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanRaza368&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-<img width="70%" src="https://streak-stats.demolab.com?user=AhsanRaza368&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-📈 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhsanRaza368&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
-</p>
-
-🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AhsanRaza368&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" width="100%" alt="GitHub Trophies"/>
-</p>
-
-🤝 Let's Connect & Collaborate
-
-<p align="center">
-<a href="mailto:ahsanghulamnabi368@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/ahsan-raza-9b0816318">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/AhsanRaza368">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
-<p align="center">
-📧 <b>ahsanghulamnabi368@gmail.com</b><br/>
-📍 Lahore, Pakistan 🇵🇰
-</p>
-
-<h3 align="center">
-💡 "Code. Build. Innovate. Repeat."
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+build+something+great+together+%F0%9F%9A%80" alt="Footer Animation"/>
-</p>
-
-<p align="center">
-⭐ If you like my work, consider following me and exploring my repositories!
+  <strong>Build thoughtfully. Ship reliably. Keep learning. 🚀</strong>
 </p>
