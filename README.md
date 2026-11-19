@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ahsan+Raza;Python+Backend+Developer;FastAPI+%7C+Django+%7C+Flask;Building+Scalable+APIs+%26+AI+Workflows" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ahsan+Raza;Python+Backend+Developer;FastAPI+%7C+Django+%7C+Flask;Creating+Scalable+APIs+%26+AI+Workflows" alt="Typing SVG" />
 </div>
 
 <p align="center">
